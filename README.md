@@ -6,4 +6,4 @@ Now I'm doing my military service as an interpertation officer whilst studying t
 Currently based in Seoul 🇰🇷
 
 ### My Stack
-Basically none. 
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
